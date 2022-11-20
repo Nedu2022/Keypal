@@ -149,6 +149,12 @@ small {
     margin: 12px;
 }
 
+.type {
+  font-family: 'Rubik Distressed', cursive;
+  font-size: 30px;
+}
+
+
   input {
     border: 0;
     border-radius: 4px;
